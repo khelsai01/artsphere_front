@@ -327,7 +327,6 @@ const SingleProduct = () => {
                             <Text>{el.body}</Text>
                           </VStack>
                           <Text w={"40%"}>{el.time}</Text>
-                          
                         </Box>
                       </Box>
                     );
